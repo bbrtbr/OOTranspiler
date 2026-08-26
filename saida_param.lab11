@@ -1,0 +1,10 @@
+int main()
+{
+  int pIdade;
+  bool pMaior;
+  pIdade = ( 17 ) ;
+  pMaior = false ;
+  pIdade = pIdade + ( 1 ) ;
+  pMaior = pIdade >= ( 18 ) ;
+  pIdade = ( 21 ) ;
+}

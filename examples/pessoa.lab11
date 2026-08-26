@@ -1,0 +1,14 @@
+int main()
+{
+  int pIdade;
+  bool pMaior;
+  int pDesconto;
+  pIdade = 17 ;
+  pDesconto = 0 ;
+  pIdade = pIdade + 1 ;
+  pMaior = pIdade >= 18 ;
+  if ( pMaior )
+  {
+    pDesconto = 1 ;
+  }
+}

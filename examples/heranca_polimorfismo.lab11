@@ -1,0 +1,17 @@
+int main()
+{
+  int aIdade;
+  int aSom;
+  int cIdade;
+  int cSom;
+  int cPeso;
+  aIdade = 1 ;
+  aSom = 0 ;
+  cIdade = 2 ;
+  cSom = 0 ;
+  cPeso = 10 ;
+  aIdade = cIdade;
+  aSom = cSom;
+  aIdade = aIdade + 1 ;
+  aSom = 2 ;
+}
